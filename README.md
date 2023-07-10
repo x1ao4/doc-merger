@@ -46,7 +46,7 @@ Doc2 only: 1
 4. 双击运行`start.command`或`start.bat`脚本以执行`doc-merger.py`脚本。
 5. 结果将写入到同一目录下名为`result.txt`和`doc2_only.txt`的文件中。
 <br>
-<br>
+
 
 # line-indexer
 With doc-merger, you can compare and analyze the contents of two documents, then overlay the data from document two onto the corresponding part of document one based on document one, output the merged results and filter out data that only exists in document two.
