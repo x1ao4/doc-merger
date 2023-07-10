@@ -36,7 +36,7 @@ Doc2 only: 1
 <br>
 
 ## 运行条件
-请确保您的系统上安装了 Python 3.6 或更高版本。
+请确保您的系统上安装了 Python 3.0 或更高版本。
 <br>
 <br>
 ## 使用方法
@@ -86,7 +86,7 @@ Doc2 only: 1
 <br>
 
 ## Requirements
-Make sure you have Python 3.6 or higher installed on your system.
+Make sure you have Python 3.0 or higher installed on your system.
 <br>
 <br>
 ## Usage
