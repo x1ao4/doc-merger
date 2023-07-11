@@ -14,7 +14,7 @@
 ```
 2023-01-01;45;The first episode;This is the first episode of the show.
 2023-01-08;45;The second episode;This is the second episode of the show.
-2023-01-22;45;The fourth episode;This is the fourth episode of the show.
+2023-01-22;45;The special episode;This is the special episode of the show.
 ```
 运行`doc-merger.py`脚本后，将生成一个名为`result.txt`的新文件，其中包含合并后的数据：
 ```
@@ -24,7 +24,7 @@
 ```
 此外，脚本还会生成一个名为`doc2_only.txt`的文件，其中包含只存在于`doc2.txt`中的数据：
 ```
-2023-01-22;45;The fourth episode;This is the fourth episode of the show.
+2023-01-22;45;The special episode;This is the special episode of the show.
 ```
 脚本还会打印一些统计信息：
 ```
@@ -61,7 +61,7 @@ The content of`doc2.txt`is as follows:
 ```
 2023-01-01;45;The first episode;This is the first episode of the show.
 2023-01-08;45;The second episode;This is the second episode of the show.
-2023-01-22;45;The fourth episode;This is the fourth episode of the show.
+2023-01-22;45;The special episode;This is the special episode of the show.
 ```
 After running the`doc-merger.py`script, a new file named`result.txt`will be generated, which contains the merged data:
 ```
@@ -71,7 +71,7 @@ After running the`doc-merger.py`script, a new file named`result.txt`will be gene
 ```
 In addition, the script will also generate a file named`doc2_only.txt`, which contains data that only exists in`doc2.txt`:
 ```
-2023-01-22;45;The fourth episode;This is the fourth episode of the show.
+2023-01-22;45;The special episode;This is the special episode of the show.
 ```
 The script will also print some statistical information:
 ```
