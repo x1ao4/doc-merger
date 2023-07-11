@@ -35,6 +35,8 @@ Doc2 only: 1
 
 ## 运行条件
 - 请确保您的系统上安装了 Python 3.0 或更高版本。
+
+## 注意事项
 - 请确保文本文件中的数据格式符合脚本中定义的格式。例如，`doc1.txt` 中的每一行应该包含四个由分号分隔的字段，分别表示剧集编号、日期、时长和标题；`doc2.txt` 中的每一行应该包含四个由分号分隔的字段，分别表示日期、时长、标题和描述。
 
 ## 使用方法
@@ -82,6 +84,8 @@ Doc2 only: 1
 
 ## Requirements
 - Make sure you have Python 3.0 or higher installed on your system.
+
+## Notes
 - Make sure that the data format in the text files conforms to the format defined in the script. For example, each line in `doc1.txt` should contain four fields separated by semicolons, representing the episode number, date, duration, and title; each line in `doc2.txt` should contain four fields separated by semicolons, representing the date, duration, title, and description.
 
 ## Usage
